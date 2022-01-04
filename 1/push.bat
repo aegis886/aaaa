@@ -5,5 +5,5 @@ for /l %%i in (1,1,10) do (
 　echo 随机数%%i：!r!>1.txt
 )
 git add .
-git commit -m "https://github.com/aegis886/aaaa"
+git commit -m "1"
 git push
